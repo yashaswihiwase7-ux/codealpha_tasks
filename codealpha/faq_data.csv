@@ -1,0 +1,101 @@
+question,answer
+Hello,Hello! How can I help you with Python today?
+Hi,Hi! Ask me any Python related question.
+Hey,Hey there! How can I assist you?
+Good morning,Good morning! How can I help you?
+Good evening,Good evening! Ask me anything about Python.
+Who are you?,I am a Python FAQ chatbot designed to answer Python related questions.
+What can you do?,I can answer common questions about Python programming.
+What is Python?,Python is a high level interpreted programming language.
+Who developed Python?,Python was developed by Guido van Rossum.
+When was Python created?,Python was first released in 1991.
+Why is Python popular?,Python is popular because of its simplicity and versatility.
+Is Python easy to learn?,Yes Python is beginner friendly and easy to learn.
+What are the features of Python?,Python is simple readable portable and supports multiple paradigms.
+Is Python compiled or interpreted?,Python is primarily an interpreted language.
+What is a variable?,A variable stores data values.
+How do I create a variable?,Assign a value using the equals sign.
+What is a string?,A string is a sequence of characters enclosed in quotes.
+What is an integer?,An integer is a whole number data type.
+What is a float?,A float is a decimal number data type.
+What is a boolean?,A boolean represents True or False values.
+What is a list?,A list is an ordered mutable collection.
+What is a tuple?,A tuple is an ordered immutable collection.
+What is a dictionary?,A dictionary stores data in key value pairs.
+What is a set?,A set is an unordered collection of unique values.
+What is indexing?,Indexing accesses elements using their position.
+What is slicing?,Slicing extracts part of a sequence.
+How do I add items to a list?,Use the append method.
+How do I remove items from a list?,Use remove or pop methods.
+What is a function?,A function is a reusable block of code.
+How do I create a function?,Use the def keyword.
+What is a parameter?,A parameter is a value accepted by a function.
+What is a return statement?,The return statement sends a value back from a function.
+What is recursion?,Recursion occurs when a function calls itself.
+What is a module?,A module is a Python file containing code.
+How do I import a module?,Use the import keyword.
+What is a package?,A package is a collection of modules.
+What is pip?,Pip is Python's package manager.
+How do I install packages?,Use pip install package_name.
+What is object oriented programming?,OOP is a programming style based on classes and objects.
+What is a class?,A class is a blueprint for creating objects.
+What is an object?,An object is an instance of a class.
+What is inheritance?,Inheritance allows one class to acquire properties of another.
+What is polymorphism?,Polymorphism allows the same method to behave differently.
+What is encapsulation?,Encapsulation hides implementation details.
+What is abstraction?,Abstraction hides unnecessary details from users.
+What is an if statement?,An if statement executes code when a condition is true.
+What is an elif statement?,Elif checks additional conditions.
+What is an else statement?,Else executes when previous conditions are false.
+What is a for loop?,A for loop iterates over a sequence.
+What is a while loop?,A while loop repeats while a condition is true.
+What is the difference between for and while loops?,For loops iterate over sequences while loops depend on conditions.
+What is exception handling?,Exception handling manages runtime errors.
+What is try and except?,Try contains risky code and except handles errors.
+What is a syntax error?,A syntax error occurs when code violates language rules.
+What is a runtime error?,A runtime error occurs during execution.
+What is a logical error?,A logical error produces incorrect results.
+How do I take input from a user?,Use the input function.
+How do I print output?,Use the print function.
+What is type casting?,Type casting converts one data type into another.
+How do I convert a string to integer?,Use int().
+How do I convert an integer to string?,Use str().
+What is a lambda function?,A lambda function is a small anonymous function.
+What is a generator?,A generator produces values one at a time.
+What is a decorator?,A decorator modifies the behavior of a function.
+What is NumPy?,NumPy is a library for numerical computing.
+What is Pandas?,Pandas is a library for data analysis.
+What is Matplotlib?,Matplotlib is a library for data visualization.
+What is Seaborn?,Seaborn is a statistical data visualization library.
+What is Tkinter?,Tkinter is Python's GUI library.
+What is OpenCV?,OpenCV is a computer vision library.
+What is Scikit Learn?,Scikit Learn is a machine learning library.
+What is TensorFlow?,TensorFlow is a deep learning framework.
+What is Keras?,Keras is a high level deep learning API.
+What is a dataframe?,A dataframe is a tabular structure in Pandas.
+How do I read a CSV file?,Use pandas read_csv function.
+How do I write a CSV file?,Use pandas to_csv function.
+What is machine learning?,Machine learning allows systems to learn from data.
+What is deep learning?,Deep learning is a subset of machine learning using neural networks.
+What is artificial intelligence?,Artificial intelligence enables machines to mimic human intelligence.
+Can Python be used for web development?,Yes Python supports web development through frameworks.
+What is Django?,Django is a powerful Python web framework.
+What is Flask?,Flask is a lightweight Python web framework.
+Can Python be used for data science?,Yes Python is widely used in data science.
+Can Python be used for AI?,Yes Python is one of the most popular AI languages.
+Can Python be used for automation?,Yes Python is commonly used for automation.
+Can Python be used for game development?,Yes Python can be used to develop games.
+Can Python be used for cybersecurity?,Yes Python is used for security testing and automation.
+What are Python libraries?,Libraries are collections of reusable code.
+What are Python frameworks?,Frameworks provide structure for application development.
+Which IDE is best for Python?,VS Code PyCharm and IDLE are popular choices.
+How do I run a Python program?,Use python filename.py in the terminal.
+What is **name** in Python?,It is a special variable used to identify module execution.
+What is **init**?,It is the constructor method in a class.
+How do I comment code in Python?,Use the hash symbol for comments.
+Why should I learn Python?,Python offers opportunities in web development AI automation and data science.
+Is Python good for beginners?,Yes Python is one of the best languages for beginners.
+Thank you,You are welcome.
+Thanks,Glad I could help.
+Bye,Goodbye and happy coding.
+Goodbye,Goodbye and have a great day.
