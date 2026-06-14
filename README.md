@@ -1,4 +1,5 @@
-# FAQ Chatbot
+Task1:
+ FAQ Chatbot
 
 ## About the Project
 
@@ -59,8 +60,9 @@ Through this project, I learned:
 * Connect with online databases
 * Improve response accuracy
 
+Task2:
 
-# Language Translation Tool
+ Language Translation Tool
 
 ## Introduction
 
